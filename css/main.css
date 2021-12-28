@@ -27,6 +27,8 @@ p {
 /* End Variables */
 
 body {
+    padding-top: 41px;
+
   margin: 100px auto;
   max-width: 1440px;
   font-family: var(--font);
